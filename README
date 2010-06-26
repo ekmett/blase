@@ -1,0 +1,6 @@
+linear
+======
+
+The goal of this library is to provide a high performance binding to BLAS and LAPACK with an idiomatic usage pattern through 'BLAS fusion'.
+
+The idea is to expose a pure API with rewrite rules that can yield a more efficient imperative usage pattern behind the scenes.
